@@ -1,0 +1,6 @@
+/home/lly/githubCode/MyWebServer/CMakeFiles/rebuild_cache.dir
+/home/lly/githubCode/MyWebServer/CMakeFiles/edit_cache.dir
+/home/lly/githubCode/MyWebServer/CMakeFiles/WebServer.dir
+/home/lly/githubCode/MyWebServer/base/CMakeFiles/rebuild_cache.dir
+/home/lly/githubCode/MyWebServer/base/CMakeFiles/edit_cache.dir
+/home/lly/githubCode/MyWebServer/base/CMakeFiles/libserver_base.dir

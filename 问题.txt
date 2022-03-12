@@ -1,0 +1,2 @@
+1、EventLoopthread.cpp中的startloop()和threadFunc()不会造成死锁吗?
+不会，如果主线程先进临界区，随后wait就将锁给释放了，等到loop线程notify唤醒主线程即可。
